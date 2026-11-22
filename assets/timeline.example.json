@@ -1,0 +1,14 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "media/mix.wav",
+  "captions": "media/captions.srt",
+  "caption_mode": "track",
+  "clips": [
+    {"file": "media/lifestyle-open.mp4", "seconds": 5, "fit": "cover", "focus": [0.4, 0.5]},
+    {"file": "media/product-capture.mp4", "start": 2, "seconds": 12, "speed": 1.25, "fit": "contain"},
+    {"file": "media/result.png", "seconds": 5, "fit": "contain", "inset": [40, 40, 40, 120]},
+    {"file": "media/brand-card.png", "seconds": 4, "fit": "cover"}
+  ]
+}

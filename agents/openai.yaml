@@ -1,0 +1,4 @@
+interface:
+  display_name: "真人感产品宣传片"
+  short_description: "用真人感场景与真实产品演示剪辑宣传片，支持官网横版、短视频竖版及成片验收"
+  default_prompt: "用 $make-product-trailer 给当前产品做一支真人感宣传片，用实际产品画面演示一个核心场景。"
